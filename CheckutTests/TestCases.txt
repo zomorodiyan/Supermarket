@@ -1,0 +1,8 @@
+1x Can Create an instance of the Checkout class
+2x Can add an item price
+3x Can add an item
+4x Can calculate the current total
+5x Can add multiple items and get correct total
+6x Can add discount rules
+7x Can apply discount rules to the total
+8x Exeption throws for item added without price for the item
